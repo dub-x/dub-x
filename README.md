@@ -1,11 +1,12 @@
 ![MasterHead](header.gif)
 
-<h1 align="center">Hi there! Bogdan here 👻</h1>
-<h3 align="center">A passionate Frontend Developer from Russia</h3>
+<h1 align="center">Hi there! Bogdan here :godmode:</h1>
+<h3 align="center">Results-driven Senior Frontend Developer | React • TypeScript</h3>
 
-👋 I'm Bogdan, a passionate and detail-oriented Software Developer with a focus on crafting visually appealing and user-friendly web applications. With more then 3 years of experience, I'm proficient in a wide range of Frontend and Backend technologies, including React.js, TypeScript, Next.js, and many others.
+👋 I own frontend features end-to-end in production environments: requirements clarification, solution design, implementation, reviews, and stable releases. I focus on scalable UI architecture, predictable state management, and high-quality UX for complex, data-heavy products.
+B.Sc. in Computer Science.
 
-🚀 My goal is to create efficient and scalable code, delivering exceptional user experiences. I enjoy collaborating with designers and stakeholders to bring their visions to life and have a proven track record of delivering impactful projects.
+🚀 I’m driven by building products that users genuinely enjoy — fast, predictable, and easy to navigate — even when the domain is complex. Long-term, I want to grow into a strong technical lead who shapes architecture, raises quality standards, and helps teams ship with confidence. I’m always open to collaboration — whether it’s a product challenge, a UI system, or an open-source project.
 
 🌟 Let's connect and create innovative digital experiences together!
 
