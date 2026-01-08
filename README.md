@@ -1,8 +1,4 @@
 ![MasterHead](header.gif)
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/BogdanXoxl/count.svg" />
-</p>
-
 
 <h1 align="center">Hi there! Bogdan here 👻</h1>
 <h3 align="center">A passionate Frontend Developer from Russia</h3>
@@ -13,28 +9,28 @@
 
 🌟 Let's connect and create innovative digital experiences together!
 
-[![My CV](https://img.shields.io/badge/My_CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://github.com/BogdanXoxl/BogdanXoxl/blob/main/CV%20Bogdan%20Khokhlov.pdf) | 
-[![Portfolio Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Safari&logoColor=white)](https://github.com/BogdanXoxl) | 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogxoxl/) |
+[![My CV](https://img.shields.io/badge/My_CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://github.com/dub-x/dub-x/blob/main/CV%20Bogdan%20Khokhlov.pdf) | 
+[![Portfolio Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Safari&logoColor=white)](https://github.com/dub-x) | 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kh-bogdan/) |
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogxoxl39.work@gmail.com) |
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BogXoxl)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dub_x_work)
 
 
 ## My GitHub Stats
 
 <table>
   <tr>
-    <td valign="top"><a href="http://www.github.com/BogdanXoxl">
-      <a href="http://www.github.com/BogdanXoxl">
-      <img height="200px" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanXoxl&stroke=facc15&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+    <td valign="top"><a href="http://www.github.com/dub-x">
+      <a href="http://www.github.com/dub-x">
+      <img height="200px" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dub-x&stroke=facc15&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
       <br/>
-   <a href="http://www.github.com/BogdanXoxl">
-     <img width="100%" src="https://github-readme-stats.vercel.app/api?username=BogdanXoxl&rank_icon=github&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="BogdanXoxl's GitHub stats" />
+   <a href="http://www.github.com/dub-x">
+     <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dub-x&rank_icon=github&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="Bogdan's GitHub stats" />
    </a>
     </td>
     <td valign="top">
-      <a href="https://github.com/BogdanXoxl" align="left">
-        <img height="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanXoxl&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut-vertical&hide=lua" alt="Top Languages" />
+      <a href="https://github.com/dub-x" align="left">
+        <img height="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dub-x&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut-vertical&hide=lua" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -56,14 +52,14 @@
 
 ## Examples of Work
 <div>
-  <a href="https://github.com/BogdanXoxl/trpc-linkshorter" target="_blank" rel="noreferrer">
-    <img src="https://github.com/BogdanXoxl/trpc-linkshorter/raw/main/public/trpc-linkshorter-600.gif" width="300"/>
+  <a href="https://github.com/dub-x/trpc-linkshorter" target="_blank" rel="noreferrer">
+    <img src="https://github.com/dub-x/trpc-linkshorter/raw/main/public/trpc-linkshorter-600.gif" width="300"/>
   </a>
-  <a href="https://github.com/BogdanXoxl/todo-vue" target="_blank" rel="noreferrer">
-    <img src="https://github.com/BogdanXoxl/todo-vue/blob/main/public/vue-todo-600.gif" width="300" >
+  <a href="https://github.com/dub-x/todo-vue" target="_blank" rel="noreferrer">
+    <img src="https://github.com/dub-x/todo-vue/blob/main/public/vue-todo-600.gif" width="300" >
   </a>
-  <a href="https://github.com/BogdanXoxl/painting_works" target="_blank" rel="noreferrer">
-    <img src="https://github.com/BogdanXoxl/painting_works/blob/main/public/painting-works-600.gif" width="300"/>
+  <a href="https://github.com/dub-x/painting_works" target="_blank" rel="noreferrer">
+    <img src="https://github.com/dub-x/painting_works/blob/main/public/painting-works-600.gif" width="300"/>
   </a>
 </div>
 
