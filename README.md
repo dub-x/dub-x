@@ -40,20 +40,20 @@ B.Sc. in Computer Science.
 
 ### My Favorite Technologies
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc "View details")](https://github.com/search?q=user%3Adub-x+topic%3AtypeScript&type=repositories)
-[![React Badge](https://img.shields.io/badge/-React-149ECA?style=for-the-badge&labelColor=black&logo=react&logoColor=149ECA "View details")](https://github.com/search?q=user%3Adub-x+topic%3Areact&type=repositories)
-[![NextJs Badge](https://img.shields.io/badge/-Nextjs-white?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white "View details")](https://github.com/search?q=user%3Adub-x+topic%3Anextjs&type=repositories)
-[![Scss Badge](https://img.shields.io/badge/-Scss-bf4080?style=for-the-badge&labelColor=black&logo=sass&logoColor=bf4080 "View details")](https://github.com/search?q=user%3Adub-x+topic%3Ascss&type=repositories)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc "View details")](https://github.com/search?q=user%3Adub-x+topic%3ATypeScript&type=repositories)
+[![React Badge](https://img.shields.io/badge/-React-149ECA?style=for-the-badge&labelColor=black&logo=react&logoColor=149ECA "View details")](https://github.com/search?q=user%3Adub-x+topic%3AReact&type=repositories)
+[![NextJs Badge](https://img.shields.io/badge/-Nextjs-white?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white "View details")](https://github.com/search?q=user%3Adub-x+topic%3ANextjs&type=repositories)
+[![Scss Badge](https://img.shields.io/badge/-Scss-bf4080?style=for-the-badge&labelColor=black&logo=sass&logoColor=bf4080 "View details")](https://github.com/search?q=user%3Adub-x+topic%3AScss&type=repositories)
 
-[![Prisma Badge](https://img.shields.io/badge/-Prisma-1A202C?style=for-the-badge&labelColor=black&logo=prisma&logoColor=white "View details")](https://github.com/search?q=user%3Adub-x+topic%3Aprisma&type=repositories)
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-00684A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=00ED64 "View details")](https://github.com/search?q=user%3Adub-x+topic%3Amongodb&type=repositories)
-[![Postgres Badge](https://img.shields.io/badge/-Postgres-0064a5?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=0064a5 "View details")](https://github.com/search?q=user%3Adub-x+topic%3Apostgresql&type=repositories)
-[![Docker Badge](https://img.shields.io/badge/-Docker-0162cc?style=for-the-badge&labelColor=black&logo=docker&logoColor=0162cc "View details")](https://github.com/search?q=user%3Adub-x+topic%3Adocker&type=repositories)
+[![Prisma Badge](https://img.shields.io/badge/-Prisma-1A202C?style=for-the-badge&labelColor=black&logo=prisma&logoColor=white "View details")](https://github.com/search?q=user%3Adub-x+topic%3APrisma&type=repositories)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-00684A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=00ED64 "View details")](https://github.com/search?q=user%3Adub-x+topic%3AMongodb&type=repositories)
+[![Postgres Badge](https://img.shields.io/badge/-Postgres-0064a5?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=0064a5 "View details")](https://github.com/search?q=user%3Adub-x+topic%3APostgresql&type=repositories)
+[![Docker Badge](https://img.shields.io/badge/-Docker-0162cc?style=for-the-badge&labelColor=black&logo=docker&logoColor=0162cc "View details")](https://github.com/search?q=user%3Adub-x+topic%3ADocker&type=repositories)
 
-[![Vite Badge](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF "View details")](https://github.com/search?q=user%3Adub-x+topic%3Avite&type=repositories)
-[![Vitest Badge](https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&labelColor=black&logo=vitest&logoColor=6E9F18 "View details")](https://github.com/search?q=user%3Adub-x+topic%3Avitest&type=repositories)
-[![ESLint Badge](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&labelColor=black&logo=eslint&logoColor=white "View details")](https://github.com/search?q=user%3Adub-x+topic%3Aeslint&type=repositories)
-[![Prettier Badge](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&labelColor=black&logo=prettier&logoColor=white "View details")](https://github.com/search?q=user%3Adub-x+topic%3Aprettier&type=repositories)
+[![Vite Badge](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF "View details")](https://github.com/search?q=user%3Adub-x+topic%3AVite&type=repositories)
+[![Vitest Badge](https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&labelColor=black&logo=vitest&logoColor=6E9F18 "View details")](https://github.com/search?q=user%3Adub-x+topic%3AVitest&type=repositories)
+[![ESLint Badge](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&labelColor=black&logo=eslint&logoColor=white "View details")](https://github.com/search?q=user%3Adub-x+topic%3AEslint&type=repositories)
+[![Prettier Badge](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&labelColor=black&logo=prettier&logoColor=white "View details")](https://github.com/search?q=user%3Adub-x+topic%3APrettier&type=repositories)
 
 
 
